@@ -29,9 +29,9 @@
 ---
 
 ## 📫 Connect with me
-- 🌍 [LinkedIn](https://www.linkedin.com/in/emiliogordillo)  
+- 🌍 [LinkedIn](https://www.linkedin.com/in/gordilloemilio)  
 - 📧 gordilloemilio9@gmail.com  
-- 🐙 GitHub: [@emiliogordillo](https://github.com/emiliogordillo)  
+- 🐙 GitHub: [@emiliogordillo](https://github.com/RaionG18)  
 
 ---
 
