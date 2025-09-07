@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Emilio Gordillo  
 
-<!--
-**RaionG18/RaionG18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Currently pursuing a **Master in High Performance Computing (MHPC)** at SISSA/ICTP (Trieste, Italy).  
+💻 Background in **Digital Transformation Engineering** with experience in automation, data pipelines, and MLOps.  
+🚀 Transitioning into **Machine Learning Engineering** roles, combining **HPC + ML + Data Engineering**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Programming & Scripting:** Python, SQL, Bash  
+- **Data & ML:** Pandas, Scikit-Learn, PyTorch (beginner), TensorFlow (beginner)  
+- **Cloud:** Docker, AWS (Lambda, S3, EC2), GitHub Actions  
+- **Automation & APIs:** Selenium, RESTful APIs  
+- **Data Engineering & MLOps:** ETL pipelines, CI/CD, containerized workflows  
+
+---
+
+## 📈 Experience
+- **Digital Transformation Engineer – Electric Power Markets**  
+  Built automated pipelines (ETL with AWS Lambda + S3), containerized forecasting & trading strategies with Docker, developed APIs on Windows servers, and implemented CI/CD solutions for data integrity & automation.  
+
+---
+
+## 🎯 Current Goals
+- Deepen expertise in **HPC applications for ML/AI**.  
+- Build real-world projects in **MLOps + HPC**.  
+- Collaborate with research labs or companies for thesis and applied work.  
+
+---
+
+## 📫 Connect with me
+- 🌍 [LinkedIn](https://www.linkedin.com/in/emiliogordillo)  
+- 📧 gordilloemilio9@gmail.com  
+- 🐙 GitHub: [@emiliogordillo](https://github.com/emiliogordillo)  
+
+---
+
+⭐️ Always open to collaborations in **HPC, ML Engineering, and Data Science**.  
